@@ -6,5 +6,9 @@ public class main {
 		int n =0;
 		n++;
 		System.out.println("n:"+n);
+		
+	}
+	public void saludar(String nom) {
+		System.out.println("Hola "+nom);
 	}
 }
